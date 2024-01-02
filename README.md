@@ -22,4 +22,4 @@ flutter run
 ```
 
 ## Author
-Adan Aidan Teras - UBSI Kramat 98
+Remi Andro - UBSI Dewisartika B
